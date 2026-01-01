@@ -33,5 +33,6 @@ console.log(x)
 // Multiple types
 var data:number | string=30
 data="hello"
-
+let ghg="quick"
 console.log(data)
+console.log("Hello")
